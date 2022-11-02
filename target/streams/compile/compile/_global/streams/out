@@ -1,0 +1,135 @@
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Universal.java:2:1: package io.vertx.core does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mio.vertx.core.Vertx[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:4:1: package io.vertx.core does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mio.vertx.core.AbstractVerticle[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:5:1: package io.vertx.core does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mio.vertx.core.Promise[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:6:1: package io.vertx.core.buffer does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mio.vertx.core.buffer.Buffer[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:7:1: package io.vertx.core.http does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mio.vertx.core.http.HttpMethod[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:8:1: package io.vertx.core.http does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mio.vertx.core.http.HttpServerResponse[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:9:1: package io.vertx.core.json does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mio.vertx.core.json.Json[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:10:1: package io.vertx.ext.web does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mio.vertx.ext.web.Router[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:11:1: package io.vertx.ext.web does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mio.vertx.ext.web.RoutingContext[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:12:1: package io.vertx.ext.web.handler does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mio.vertx.ext.web.handler.BodyHandler[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:13:1: package io.vertx.ext.web.handler does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mio.vertx.ext.web.handler.CorsHandler[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:19:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol: class AbstractVerticle[0m
+[0m[[0m[31merror[0m] [0m[0mAbstractVerticle[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:27:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class RoutingContext[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Verticles.EmployeeVerticle[0m
+[0m[[0m[31merror[0m] [0m[0mRoutingContext[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:33:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class RoutingContext[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Verticles.EmployeeVerticle[0m
+[0m[[0m[31merror[0m] [0m[0mRoutingContext[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:58:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class RoutingContext[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Verticles.EmployeeVerticle[0m
+[0m[[0m[31merror[0m] [0m[0mRoutingContext[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:74:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class RoutingContext[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Verticles.EmployeeVerticle[0m
+[0m[[0m[31merror[0m] [0m[0mRoutingContext[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:90:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class RoutingContext[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Verticles.EmployeeVerticle[0m
+[0m[[0m[31merror[0m] [0m[0mRoutingContext[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:107:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Promise[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Verticles.EmployeeVerticle[0m
+[0m[[0m[31merror[0m] [0m[0mPromise[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Universal.java:6:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Vertx[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Universal[0m
+[0m[[0m[31merror[0m] [0m[0mVertx[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Universal.java:6:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable Vertx[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Universal[0m
+[0m[[0m[31merror[0m] [0m[0mVertx[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:28:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class HttpServerResponse[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Verticles.EmployeeVerticle[0m
+[0m[[0m[31merror[0m] [0m[0mHttpServerResponse[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:30:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable Json[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Verticles.EmployeeVerticle[0m
+[0m[[0m[31merror[0m] [0m[0mJson[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:34:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class HttpServerResponse[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Verticles.EmployeeVerticle[0m
+[0m[[0m[31merror[0m] [0m[0mHttpServerResponse[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:54:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable Json[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Verticles.EmployeeVerticle[0m
+[0m[[0m[31merror[0m] [0m[0mJson[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:59:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class HttpServerResponse[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Verticles.EmployeeVerticle[0m
+[0m[[0m[31merror[0m] [0m[0mHttpServerResponse[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:70:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable Json[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Verticles.EmployeeVerticle[0m
+[0m[[0m[31merror[0m] [0m[0mJson[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:75:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class HttpServerResponse[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Verticles.EmployeeVerticle[0m
+[0m[[0m[31merror[0m] [0m[0mHttpServerResponse[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:80:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable Json[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Verticles.EmployeeVerticle[0m
+[0m[[0m[31merror[0m] [0m[0mJson[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:91:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class HttpServerResponse[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Verticles.EmployeeVerticle[0m
+[0m[[0m[31merror[0m] [0m[0mHttpServerResponse[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:106:1: method does not override or implement a method from a supertype[0m
+[0m[[0m[31merror[0m] [0m[0m@Override[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:110:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Router[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Verticles.EmployeeVerticle[0m
+[0m[[0m[31merror[0m] [0m[0mRouter[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:110:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable vertx[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Verticles.EmployeeVerticle[0m
+[0m[[0m[31merror[0m] [0m[0mvertx[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:110:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable Router[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Verticles.EmployeeVerticle[0m
+[0m[[0m[31merror[0m] [0m[0mRouter[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:115:1: package io.vertx.core.http does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mio.vertx.core.http.HttpMethod[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:114:1: package io.vertx.core.http does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mio.vertx.core.http.HttpMethod[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:113:1: package io.vertx.core.http does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mio.vertx.core.http.HttpMethod[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:112:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable CorsHandler[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Verticles.EmployeeVerticle[0m
+[0m[[0m[31merror[0m] [0m[0mCorsHandler[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:133:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable BodyHandler[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Verticles.EmployeeVerticle[0m
+[0m[[0m[31merror[0m] [0m[0mBodyHandler[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:134:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable HttpMethod[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Verticles.EmployeeVerticle[0m
+[0m[[0m[31merror[0m] [0m[0mHttpMethod[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:135:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable vertx[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Verticles.EmployeeVerticle[0m
+[0m[[0m[31merror[0m] [0m[0mvertx[0m
+[0m[[0m[31merror[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java:138:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method config()[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Verticles.EmployeeVerticle[0m
+[0m[[0m[31merror[0m] [0m[0mconfig[0m
+[0m[[0m[0minfo[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java: EmployeeVerticle.java uses unchecked or unsafe operations.[0m
+[0m[[0m[0minfo[0m] [0m[0m/home/quanhoang/Desktop/DemoVerticle/src/main/java/Verticles/EmployeeVerticle.java: Recompile with -Xlint:unchecked for details.[0m
